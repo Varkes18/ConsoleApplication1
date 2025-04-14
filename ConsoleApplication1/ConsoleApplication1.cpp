@@ -16,8 +16,8 @@ int main()
     float abаc = 5.0;
     float mne;
     float Li = a * b * m / q;
-    float R=abc*Li
-
+    float R = abc * Li;
+    k = Li / m;
 
 
 }
